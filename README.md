@@ -7,7 +7,8 @@ I'm a software engineering student at the University of Waterloo, with a passion
 🌱 I’m currently learning about: graphics, music production, the intersection between art and technology, and what ethical development looks like.
 
 👯 I'm currently having fun with: boxing, swimming, and running!
-📫 How to reach me: Here's my linkedin.
+
+📫 How to reach me: Here's my [linkedin](https://www.linkedin.com/in/nimunb/).
 
 <!--
 **NimunB/nimunb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

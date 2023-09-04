@@ -1,4 +1,4 @@
-## Hi! I'm Nimun Bajwa (she/her). 🪩
+## Hi! I'm Nimun Bajwa (she/her). 🎆
 
 <!--
 **NimunB/nimunb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

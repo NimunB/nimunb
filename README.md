@@ -1,6 +1,6 @@
 ## Hi! I'm Nimun Bajwa (she/her). 🎆 🏄‍♀️ 🧚‍♂️
 
-**I'm a computer science student at the University of Waterloo, with a passion for music, art, graphics, ai, and computer vision.**
+**I'm a fourth year Computer Science student at the University of Waterloo with a passion for music, art, graphics, ai, and computer vision.**
 
 **🔭 I’m currently working on: studying artificial intelligence, computer vision, security and privacy, and graphics as part of my 4B term of Computer Science at the University of Waterloo.**
 

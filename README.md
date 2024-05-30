@@ -1,4 +1,4 @@
-## Hi! I'm Nimun Bajwa (she/her). 🎆 🏄‍♀️ 🧚‍♂️
+## Hi! I'm Nimun Bajwa 🏄‍♀️ 
 
 **I'm a fourth year Computer Science student at the University of Waterloo with a passion for music, art, graphics, ai, and computer vision.**
 
